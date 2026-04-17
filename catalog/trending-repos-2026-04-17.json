@@ -1,0 +1,105 @@
+{
+  "asOf": "2026-04-17",
+  "sources": [
+    {
+      "name": "andrej-karpathy-skills",
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "category": "agent-behavior-guidelines",
+      "stars": 53738,
+      "license": "NOASSERTION",
+      "language": null,
+      "fit": ["prompt quality", "coding rigor", "agent guardrails"]
+    },
+    {
+      "name": "claude-mem",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "category": "memory-system",
+      "stars": 61104,
+      "license": "AGPL-3.0 (README badge)",
+      "language": "TypeScript",
+      "fit": ["session memory", "context compression", "cross-session continuity"]
+    },
+    {
+      "name": "voicebox",
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "category": "voice-synthesis",
+      "stars": 19591,
+      "license": "MIT",
+      "language": "TypeScript",
+      "fit": ["voice UX", "agent voice interfaces", "local privacy-first TTS"]
+    },
+    {
+      "name": "open-agents",
+      "repo": "vercel-labs/open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "category": "cloud-agent-runtime",
+      "stars": 3499,
+      "license": "MIT",
+      "language": "TypeScript",
+      "fit": ["background agents", "sandbox execution", "PR automation"]
+    },
+    {
+      "name": "cognee",
+      "repo": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "category": "knowledge-engine",
+      "stars": 16133,
+      "license": "Apache-2.0",
+      "language": "Python",
+      "fit": ["memory graph", "knowledge retrieval", "agent context enrichment"]
+    },
+    {
+      "name": "magika",
+      "repo": "google/magika",
+      "url": "https://github.com/google/magika",
+      "category": "content-type-detection",
+      "stars": 15237,
+      "license": "Apache-2.0",
+      "language": "Python",
+      "fit": ["file ingestion safety", "pipeline routing", "upload validation"]
+    },
+    {
+      "name": "GenericAgent",
+      "repo": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "category": "autonomous-agent-framework",
+      "stars": 3345,
+      "license": "MIT",
+      "language": "Python",
+      "fit": ["skill growth", "local automation", "token-efficient loops"]
+    },
+    {
+      "name": "omi",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "category": "ambient-ai",
+      "stars": 9584,
+      "license": "MIT",
+      "language": "Dart",
+      "fit": ["meeting intelligence", "multimodal capture", "personal assistant workflows"]
+    },
+    {
+      "name": "evolver",
+      "repo": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "category": "agent-self-optimization",
+      "stars": 3793,
+      "license": "GPL-3.0",
+      "language": "JavaScript",
+      "fit": ["prompt evolution", "audit trail", "iterative optimization"]
+    },
+    {
+      "name": "Kreo",
+      "repo": null,
+      "url": "https://t.me/KreoPolyBot?start=ref-kreohub",
+      "category": "copy-trading-service",
+      "stars": null,
+      "license": "closed-source",
+      "language": null,
+      "fit": ["market intelligence", "copy trading", "signal automation"]
+    }
+  ]
+}
