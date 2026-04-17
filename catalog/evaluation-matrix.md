@@ -10,6 +10,8 @@ As-of snapshot: 2026-04-17.
 | magika | AI file type detection + safety routing | Low | Low (Apache-2.0) | Upload pipelines, scanner inputs, and content validation | P1 |
 | andrej-karpathy-skills | Better coding-agent behavior rules | Low | Unknown | Prompt/rule standards across all repos | P1 |
 | GenericAgent | Self-evolving local automation | Medium | Low (MIT) | Internal automation bench, skill-tree ideas | P2 |
+| architecture-diagram-generator | Fast architecture diagram generation | Low | Low (MIT) | Architecture docs from project logs and repo summaries | P1 |
+| claude-agent-sdk-python | Python agent orchestration SDK | Medium | Low (MIT) | Automating log-to-spec and architecture prep workflows | P1 |
 | evolver | Protocolized prompt evolution loop | Medium | Medium (GPL-3.0) | Research-only optimization workflow | P2 |
 | voicebox | Local voice cloning/synthesis studio | Medium | Low (MIT) | Voice-enabled agents and notification pipelines | P2 |
 | omi | Ambient capture + assistant stack | High | Low (MIT) | Product inspiration, not immediate drop-in | P3 |

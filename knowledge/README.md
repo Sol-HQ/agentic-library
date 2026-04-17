@@ -12,6 +12,8 @@
 - `repo-dossiers/omi.md`
 - `repo-dossiers/evolver.md`
 - `repo-dossiers/kreo.md`
+- `repo-dossiers/architecture-diagram-generator.md`
+- `repo-dossiers/claude-agent-sdk-python.md`
 
 ## Learning Track
 
@@ -25,3 +27,5 @@
 4. `knowledge/tracks/agent-engineering-curriculum.md`
 5. `knowledge/repo-dossiers/*.md`
 6. `playbooks/adoption-roadmap-90-days.md`
+7. `playbooks/project-log-to-architecture-diagram.md`
+8. `playbooks/architecture-spec-template.md`

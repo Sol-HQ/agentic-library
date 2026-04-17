@@ -36,6 +36,16 @@ You asked for a dedicated GitHub repository that acts like a world-class learnin
 8. BasedHardware/omi
 9. EvoMap/evolver
 10. Kreo (commercial Telegram bot, no open-source repository)
+11. Cocoon-AI/architecture-diagram-generator
+12. Cocoon-AI/claude-agent-sdk-python
+
+## New architecture workflow coverage
+
+The library now includes a dedicated pipeline for converting project logs into architecture diagrams:
+
+- `playbooks/project-log-to-architecture-diagram.md`
+- `playbooks/architecture-spec-template.md`
+- `diagrams/project-log-to-architecture-flow.md`
 
 ## Notes
 

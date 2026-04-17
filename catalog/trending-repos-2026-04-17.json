@@ -92,6 +92,26 @@
       "fit": ["prompt evolution", "audit trail", "iterative optimization"]
     },
     {
+      "name": "architecture-diagram-generator",
+      "repo": "Cocoon-AI/architecture-diagram-generator",
+      "url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
+      "category": "architecture-visualization",
+      "stars": 3294,
+      "license": "MIT",
+      "language": "HTML",
+      "fit": ["architecture docs", "diagram generation", "system design communication"]
+    },
+    {
+      "name": "claude-agent-sdk-python",
+      "repo": "Cocoon-AI/claude-agent-sdk-python",
+      "url": "https://github.com/Cocoon-AI/claude-agent-sdk-python",
+      "category": "agent-orchestration-sdk",
+      "stars": 0,
+      "license": "MIT",
+      "language": "Python",
+      "fit": ["automation pipelines", "agent scripting", "custom tool orchestration"]
+    },
+    {
       "name": "Kreo",
       "repo": null,
       "url": "https://t.me/KreoPolyBot?start=ref-kreohub",
